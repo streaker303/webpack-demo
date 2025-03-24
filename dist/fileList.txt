@@ -1,0 +1,5 @@
+打包生成的文件列表：
+- bundle.js
+- 51ff6a5384eda4420634.png
+- src_lazyModule_js.chunk.js
+- index.html
